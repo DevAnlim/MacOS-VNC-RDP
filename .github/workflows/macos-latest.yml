@@ -1,4 +1,4 @@
-name: macOS-Latest
+name: macos-latest
 on: 
   workflow_dispatch:
 defaults:
